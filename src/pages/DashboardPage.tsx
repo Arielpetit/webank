@@ -1,4 +1,4 @@
-import Logo from "../assets/Webank.png";
+import Logo from "../../Webank.png";
 import { FaAdjust } from "react-icons/fa";
 import { getAccountId } from "../services/keyManagement/apiService";
 
