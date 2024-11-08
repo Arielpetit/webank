@@ -25,10 +25,10 @@ export default defineConfig({
 
         icons: [
           {
-            src: '/src/assets/android-chrome-144x144.jpeg',
+            src: '/src/assets/android-chrome-144x144.png',
             sizes: '144x144',
             type: 'image/png',
-            "purpose": "any",
+            purpose: "any",
           },
           {
             src: '/src/assets/android-chrome-192x192.png',
